@@ -55,14 +55,24 @@
   background-position: center center;
 }
 
+.container {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flexdirection: column;
+  justify-content: center;
+  align-items: center;
+}
+
 .container > .bg-video {
-  width: 100%;
+  width: 25%;
   height: 100%;
 }
 
 /* background-color and color should be the same as the below otherwise it won't work */
 .container > .text {
-  position: fixed;
+  position: absolute;
   inset: 0;
   display: grid;
   place-items: center;

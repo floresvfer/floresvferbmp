@@ -25,9 +25,7 @@ const Title: React.FC<{
 
     return (
         <div className={'text'} style={{
-            padding: 0,
             fontSize,
-            marginBottom: `calc(-${fontSize} *0.2)`,
             textAlign: 'left',
             color,
             fontFamily: GetFontFamily(font),
