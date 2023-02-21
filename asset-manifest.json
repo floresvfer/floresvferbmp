@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/floresvferbmp/static/css/main.ae044a5a.css",
+    "main.js": "/floresvferbmp/static/js/main.8ef1aedb.js",
+    "static/js/787.bc1d310b.chunk.js": "/floresvferbmp/static/js/787.bc1d310b.chunk.js",
+    "static/media/MangoGrotesque-ExtraBold.ttf": "/floresvferbmp/static/media/MangoGrotesque-ExtraBold.6f12b09613c25aae3bd8.ttf",
+    "static/media/MangoGrotesque-Bold.ttf": "/floresvferbmp/static/media/MangoGrotesque-Bold.1d80c7e5764ea5829a7f.ttf",
+    "static/media/Humane-Bold.otf": "/floresvferbmp/static/media/Humane-Bold.697565ee0e4a70dd6531.otf",
+    "static/media/OTFGlusp.ttf": "/floresvferbmp/static/media/OTFGlusp.b798be376ec6fda9bdad.ttf",
+    "static/media/logo.svg": "/floresvferbmp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/floresvferbmp/index.html",
+    "main.ae044a5a.css.map": "/floresvferbmp/static/css/main.ae044a5a.css.map",
+    "main.8ef1aedb.js.map": "/floresvferbmp/static/js/main.8ef1aedb.js.map",
+    "787.bc1d310b.chunk.js.map": "/floresvferbmp/static/js/787.bc1d310b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae044a5a.css",
+    "static/js/main.8ef1aedb.js"
+  ]
+}
